@@ -1,4 +1,7 @@
 # CadenceLicensePatcher
+
+You can use GUI or command to patch your Cadence products.</br>
+
 ## How to use it?
 1.Download release version and open it,input your cadence products path.</br>
 2.Close all need patch programs.</br>
